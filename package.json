@@ -1,0 +1,10 @@
+{
+  "name": "tigerpower-helper",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ethers": "6.17.0",
+    "qrcode": "1.5.4",
+    "undici": "6.29.1"
+  }
+}
