@@ -49,6 +49,7 @@ panel/logrpc.mjs
 panel/prices.mjs
 panel/quote.mjs
 panel/readapi.mjs
+panel/remote.mjs
 panel/scan.mjs
 panel/server.mjs
 panel/session.mjs
@@ -63,8 +64,10 @@ panel/wallets.mjs
 panel/weblink.mjs
 proxy.mjs
 quoteswap.mjs
+rpc.mjs
 sell.mjs
 start.cmd
 tip.mjs
 transfer.mjs
+v3swap.mjs
 version.json
